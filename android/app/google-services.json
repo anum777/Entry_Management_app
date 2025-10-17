@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "628929991777",
+    "project_id": "entry-management-app",
+    "storage_bucket": "entry-management-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:628929991777:android:13bc99e900781b40cec620",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2bYr9FxVKOXb97yQiCRmuK13XpZA4VaI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
